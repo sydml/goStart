@@ -1,0 +1,2 @@
+# gostart
+go start
